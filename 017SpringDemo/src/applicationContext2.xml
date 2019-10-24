@@ -11,7 +11,7 @@
 
     <bean id="myFortuneService" class="com.mwasilewski.example.HappyFortuneService"/>
     <bean id="myRandomService" class="com.mwasilewski.example.RandomFortune"/>
-    <bean id="myCricketCoach" class="com.mwasilewski.example.CricketCoach">
+    <bean id="myCricketCoach" class="com.mwasilewski.example.CricketCoach" scope="prototype">
         <property name="service" ref="myRandomService"/>
         <property name="emailAddress" value="${foo.email}"/>
         <property name="team" value="${foo2.team}"/>
