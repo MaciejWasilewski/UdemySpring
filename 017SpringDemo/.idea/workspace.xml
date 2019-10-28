@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db778014-1ef3-4511-b1ee-cb7c6d9ce328" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/RandomFortune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sport.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/017SpringDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/017SpringDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/017SpringDemo/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/017SpringDemo/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/MyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/SpringHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/SpringHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mwasilewski/example/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mwasilewski/example/CricketCoach.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -141,6 +130,7 @@
       <workItem from="1571843098589" duration="1097000" />
       <workItem from="1571909309235" duration="6325000" />
       <workItem from="1571917824430" duration="4376000" />
+      <workItem from="1572265642427" duration="2437000" />
     </task>
     <servers />
   </component>
@@ -152,98 +142,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>SpringLib</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>017SpringDemo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>SpringLib</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -6,6 +6,7 @@
         <fileset id="fileset" name="ApplicationContext" removed="false">
           <file>file://$MODULE_DIR$/src/com/mwasilewski/example/applicationContext.xml</file>
           <file>file://$MODULE_DIR$/src/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/applicationContext2.xml</file>
         </fileset>
       </configuration>
     </facet>
