@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93da3e4a-0735-45af-9192-3c2c6c9a62aa" name="Default Changelist" comment="" />
+    <list default="true" id="5776434d-61b7-489b-8c72-e86cc2503172" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/coach/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springWithXML/TestSpringBeanScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/051SpringWithAnnotations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/051SpringWithAnnotations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/051SpringWithAnnotations/appContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/051SpringWithAnnotations/appContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/appContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/BasketballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/FortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/HappyFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/HappyFortune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/springWithXML/TestAnnotationsWithXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/SadFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/SadFortune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/TennisCoach.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +37,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SpoxsbeerbVigzXghyVWMR2o5P" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TINWbBOo87DsJLLnSbZAhNavHS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -33,10 +58,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,13 +80,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.mw.Main" />
+  <component name="RunManager" selected="Application.TestAnnotationsWithXML">
+    <configuration name="TestAnnotationsWithXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mw.springWithXML.TestAnnotationsWithXML" />
       <module name="051SpringWithAnnotations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.mw.*" />
+          <option name="PATTERN" value="com.example.mw.springWithXML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mw.springNoAnnotationsDemo.TestSpring" />
+      <module name="051SpringWithAnnotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mw.springNoAnnotationsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestAnnotationsWithXML" />
+        <item itemvalue="Application.TestSpring" />
       </list>
     </recent_temporary>
   </component>
@@ -75,17 +119,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93da3e4a-0735-45af-9192-3c2c6c9a62aa" name="Default Changelist" comment="" />
-      <created>1572270147037</created>
+      <changelist id="5776434d-61b7-489b-8c72-e86cc2503172" name="Default Changelist" comment="" />
+      <created>1573143681244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572270147037</updated>
-      <workItem from="1572270148276" duration="4774000" />
-      <workItem from="1573117420247" duration="4812000" />
+      <updated>1573143681244</updated>
+      <workItem from="1573143682697" duration="5313000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

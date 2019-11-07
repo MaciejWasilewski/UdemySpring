@@ -1,4 +1,4 @@
-package com.example.mw;
+package com.example.mw.coach;
 
 import org.springframework.stereotype.Component;
 

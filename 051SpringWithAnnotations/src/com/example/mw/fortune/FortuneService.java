@@ -1,4 +1,4 @@
-package com.example.mw;
+package com.example.mw.fortune;
 
 public interface FortuneService {
     public String fortune();

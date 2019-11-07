@@ -1,4 +1,4 @@
-package com.example.mw;
+package com.example.mw.coach;
 
 public interface Coach {
     public String getDailyworkout();

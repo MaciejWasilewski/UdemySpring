@@ -1,9 +1,11 @@
-package com.example.mw;
+package com.example.mw.springWithXML;
 
+import com.example.mw.coach.Coach;
+import com.example.mw.coach.TennisCoach;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class Main {
+public class TestAnnotationsWithXML {
     public static void main(String[] args) {
 
         try (AbstractApplicationContext context = new ClassPathXmlApplicationContext("appContext.xml")) {

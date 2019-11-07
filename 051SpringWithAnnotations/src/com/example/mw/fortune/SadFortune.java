@@ -1,6 +1,5 @@
-package com.example.mw;
+package com.example.mw.fortune;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
