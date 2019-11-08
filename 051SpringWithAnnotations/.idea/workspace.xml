@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5776434d-61b7-489b-8c72-e86cc2503172" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/coach/SwimCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/mw/springWithXML/TestSpringBeanScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/coach/GolfCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/practiceActivity/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/mw/practiceActivity/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/051SpringWithAnnotations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/051SpringWithAnnotations.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/051SpringWithAnnotations/appContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/051SpringWithAnnotations/appContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/appContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/appContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/BasketballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/BasketballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/FortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/HappyFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/HappyFortune.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/springWithXML/TestAnnotationsWithXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/SadFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/fortune/SadFortune.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mw/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/coach/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/coach/SwimCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/springNoAnnotationsDemo/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/mw/springPureJavaDemo/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +50,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -80,13 +69,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestAnnotationsWithXML">
+  <component name="RunManager" selected="Application.TestSpring (2)">
     <configuration name="TestAnnotationsWithXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.mw.springWithXML.TestAnnotationsWithXML" />
       <module name="051SpringWithAnnotations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.mw.springWithXML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpring (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mw.springPureJavaDemo.TestSpring" />
+      <module name="051SpringWithAnnotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mw.springPureJavaDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpring (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mw.practiceActivity.TestSpring" />
+      <module name="051SpringWithAnnotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mw.practiceActivity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,8 +124,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestAnnotationsWithXML" />
+        <item itemvalue="Application.TestSpring (2)" />
+        <item itemvalue="Application.TestSpring (1)" />
         <item itemvalue="Application.TestSpring" />
+        <item itemvalue="Application.TestAnnotationsWithXML" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +141,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573143681244</updated>
-      <workItem from="1573143682697" duration="5313000" />
+      <workItem from="1573143682697" duration="5944000" />
+      <workItem from="1573217646678" duration="4224000" />
     </task>
     <servers />
   </component>
@@ -136,7 +154,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
